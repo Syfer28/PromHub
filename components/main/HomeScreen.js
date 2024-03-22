@@ -1,7 +1,5 @@
-import { useState } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import { StyleSheet, SafeAreaView } from "react-native";
-// import { useFonts, Kanit_600SemiBold } from "@expo-google-fonts/kanit";
-// import { OpenSans_400Regular } from "@expo-google-fonts/open-sans";
 import SearchBar from "../home-screen/SearchBar";
 import SearchResult from "../home-screen/SearchResult";
 
@@ -13,15 +11,16 @@ const HomeScreen = () => {
   };
 
   return (
-    <SafeAreaView style={styles.container}>
+    <View style={styles.container}>
       <SearchBar onSearch={onSearch} />
       <SearchResult query={query} />
-    </SafeAreaView>
+    </View>
   );
 };
 
 const styles = StyleSheet.create({
   container: {
+    flex: 1,
     margin: 10,
   },
 });

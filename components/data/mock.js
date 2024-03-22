@@ -8,42 +8,42 @@ const data = [
       {
         "id": 1,
         "name": "Red Apple",
-        "image": "red_apple.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€2.50",
         "discount": 0
       },
       {
         "id": 2,
         "name": "Basmati Rice",
-        "image": "basmati_rice.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€3.80",
         "discount": 0
       },
       {
         "id": 3,
         "name": "Organic Milk",
-        "image": "organic_milk.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€1.99",
         "discount": 0
       },
       {
         "id": 4,
         "name": "Fresh Salmon",
-        "image": "fresh_salmon.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€8.50",
         "discount": 0
       },
       {
         "id": 5,
         "name": "Spinach Leaves",
-        "image": "spinach_leaves.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€1.20",
         "discount": 0
       },
       {
         "id": 6,
         "name": "Whole Wheat Bread",
-        "image": "whole_wheat_bread.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€2.00",
         "discount": 0
       }
@@ -58,42 +58,42 @@ const data = [
       {
         "id": 1,
         "name": "Black Tea",
-        "image": "black_tea.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€4.20",
         "discount": 0
       },
       {
         "id": 2,
         "name": "Green Tea",
-        "image": "green_tea.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€3.50",
         "discount": 0
       },
       {
         "id": 3,
         "name": "Chamomile Tea",
-        "image": "chamomile_tea.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€3.80",
         "discount": 0
       },
       {
         "id": 4,
         "name": "Peppermint Tea",
-        "image": "peppermint_tea.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€3.00",
         "discount": 0
       },
       {
         "id": 5,
         "name": "Earl Grey Tea",
-        "image": "earl_grey_tea.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€4.50",
         "discount": 0
       },
       {
         "id": 6,
         "name": "White Tea",
-        "image": "white_tea.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€5.20",
         "discount": 0
       }
@@ -108,42 +108,42 @@ const data = [
       {
         "id": 1,
         "name": "Organic Carrots",
-        "image": "organic_carrots.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€2.00",
         "discount": 0
       },
       {
         "id": 2,
         "name": "Organic Potatoes",
-        "image": "organic_potatoes.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€1.50",
         "discount": 0
       },
       {
         "id": 3,
         "name": "Organic Tomatoes",
-        "image": "organic_tomatoes.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€3.00",
         "discount": 0
       },
       {
         "id": 4,
         "name": "Organic Kale",
-        "image": "organic_kale.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€2.50",
         "discount": 0
       },
       {
         "id": 5,
         "name": "Organic Lettuce",
-        "image": "organic_lettuce.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€2.20",
         "discount": 0
       },
       {
         "id": 6,
         "name": "Organic Cucumbers",
-        "image": "organic_cucumbers.jpg",
+        "image": "https://images.unsplash.com/photo-1621800544619-0beb8cc67ae1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVkJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
         "price": "€2.80",
         "discount": 0
       }

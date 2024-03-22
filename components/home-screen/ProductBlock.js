@@ -1,11 +1,14 @@
 import { View, FlatList } from 'react-native';
 import Distributor from './Distributor'
-import data from '../data/mock'
 
-const ProductBlock = ({ data }) => {
+const ProductBlock = ({ company, query }) => {
+  const filteredProducts = company.products.filter((product) => 
+    product.name.toLowerCase().includes(query.toLowerCase())
+  )
+
   return (
     <View>
-      <Distributor company={data} products={data.products} />
+      <Distributor company={company} products={filteredProducts} />
     </View>
   );
 };
